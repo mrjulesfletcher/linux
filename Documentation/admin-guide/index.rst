@@ -133,6 +133,7 @@ configure specific aspects of kernel behavior to your liking.
    thunderbolt
    ufs
    unicode
+   useful-modules-and-features
    vga-softcursor
    video-output
    xfs
